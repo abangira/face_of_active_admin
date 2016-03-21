@@ -11,7 +11,7 @@ $skinHeaderTextColor: #FFFFFF !default;
 $skinFontFamily: "Source Sans Pro", Helvetica, Arial, sans-serif !default;
 $panelHeaderBck: darken($skinHeaderBck, 10%) !default;
 $panelHeaderTextColor: #FFFFFF !default;
-$skinLogo: image-url("face_of_active_admin/logo.jpg") no-repeat 0 0 !default;
+$skinLogo: url("face_of_active_admin/logo.jpg") no-repeat 0 0 !default;
 $skinLogoWidth: auto !default;
 
 // Low priority settings
